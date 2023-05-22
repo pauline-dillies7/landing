@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Francois+One&family=Roboto+Flex:wght@300&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto Flex', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h3 {
+	font-family: 'Francois One', sans-serif;
+	font-weight: bolder;
+}
+h2 {font-family: 'Roboto Flex', sans-serif;
+}
+a {
+	text-decoration: none;
+}
